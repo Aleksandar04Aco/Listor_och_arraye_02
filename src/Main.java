@@ -11,6 +11,7 @@ public class Main {
           //uppg5();
           //uppg7();
             uppg8();
+            //klars
         }
 
         public static void uppg1() {
